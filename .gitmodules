@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/razimograbi/RaziDolevBackendServer.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/razimograbi/RaziDolevAndroidApp.git
