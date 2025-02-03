@@ -43,13 +43,13 @@ cd RaziDolev_Shlav_B
 git submodule update --init --recursive
 ```
 ## Project Structure
-├── backend@                  # Server
-│   ├── main.py               #
-│   ├── user.py               #
-│   ├── audioAccumulator.py   # 
-│   └── externalAPIs.py       #
+├── backend@ 
+│   ├── main.py      
+│   ├── user.py          
+│   ├── audioAccumulator.py 
+│   └── externalAPIs.py     
 │
-├── frontend@                 # Android client application
+├── frontend@                 
 │   ├── app/src/main/java/com/
 │   │   ├── ActiveUser.java                    
 │   │   ├── ActiveUserAdapter.java      
@@ -64,9 +64,9 @@ git submodule update --init --recursive
 │   │   └── User.java  
 │   │   └── WavRecord.java  
 │
-├── ShlavA/                   # Phase A documentation
-├── ShlavB_GloabCommunication # Final paper
-├── Poster/                   # Presentation Poster
+├── ShlavA/                 
+├── ShlavB_GloabCommunication 
+├── Poster/                 
 └── FinalVideoForGlobalCommunication # Demo video of the system
 
 
