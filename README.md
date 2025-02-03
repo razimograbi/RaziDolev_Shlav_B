@@ -9,7 +9,7 @@ A near real-time voice communication system with AI-powered translation capabili
 - Automatic language translation using ChatGPT 4o-mini
 - Voice cloning support for supported languages
 - Redis-powered audio chunk management
-- Android client applications
+- Android client application
 
 ## System Architecture
 1. **Android Clients**: Capture/play audio and manage WebSocket connections
