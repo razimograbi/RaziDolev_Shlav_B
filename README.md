@@ -43,7 +43,8 @@ cd RaziDolev_Shlav_B
 git submodule update --init --recursive
 ```
 ## Project Structure
-├── backend@ 
+├── backend@
+
 │   ├── main.py      
 │   ├── user.py          
 │   ├── audioAccumulator.py 
