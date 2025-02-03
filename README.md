@@ -44,7 +44,6 @@ git submodule update --init --recursive
 ```
 ## Project Structure
 ├── backend@
-
 │   ├── main.py      
 │   ├── user.py          
 │   ├── audioAccumulator.py 
